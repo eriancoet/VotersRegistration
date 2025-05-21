@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "600cb80a-dc1c-48e1-8370-9838ab1a8601"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.paradox700.politicalpartyregistration",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "package": "com.paradox700.politicalpartyregistration"
+    }
+  }
+}

@@ -3,7 +3,7 @@ import { initializeApp } from 'firebase/app';
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDX-r8IEDwjLKAz8Lw76kA7u2emHbHPMXQ",
+  apiKey: "xxx",
   authDomain: "politcal-party-registration.firebaseapp.com",
   projectId: "politcal-party-registration",
   storageBucket: "politcal-party-registration.appspot.com",
